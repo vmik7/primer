@@ -1,2 +1,1 @@
-# hep-template
-Template repository with Husky &amp; ESLint &amp; Prettier
+# Разбиение числа на простые множители
